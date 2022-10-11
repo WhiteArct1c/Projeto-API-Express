@@ -2,7 +2,7 @@
 
 ## Descrição:
 ---
-Projeto criado no curso WEB MODERNO COM JAVASCRIPT 2022 (COD3R) utilizando o framework Express + Nodejs para simular o funcionamento de requisições http, requisições estas que foram criadas pelo POSTMAN. Fora explorado os conceitos do padrão Middleware (Chain of Responsability) utilizado pelo EXPRESS para entender e criar as resquições GET, POST e PUT.
+Projeto criado no curso WEB MODERNO COM JAVASCRIPT 2022 (COD3R) utilizando o framework Express + Nodejs para simular o funcionamento de requisições http, requisições estas que foram criadas pelo POSTMAN. Fora explorado os conceitos do padrão Middleware (Chain of Responsability) utilizado pelo EXPRESS para entender e criar as resquições GET, POST e PUT. Foi utilizado também o nodemon para que a aplicação do servidor fosse atualizada em tempo real.
 
 &nbsp;
 ## Tech stack utilizada:
